@@ -41,13 +41,12 @@
 
 ## 🚀 Featured Projects
 
-### 🏠 Real Estate Management System
+### 🏠 [HogarYA — Real Estate Management System](https://github.com/Nachitoo321/HogarYA)
 **University Team Project**
 
-A real estate management system developed as a collaborative university project, focused on managing properties and related business operations.
+Real estate management system developed collaboratively as part of a university project.
 
-`Java` `Spring Boot` `MySQL`
-
+`Java` `Spring Boot` `Thymeleaf` `Spring Data JPA` `MySQL`
 ---
 
 ### 🛸 Rick & Morty Web App
