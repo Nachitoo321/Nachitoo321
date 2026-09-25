@@ -46,7 +46,7 @@
 
 Real estate management system developed collaboratively as part of a university project.
 
-`Java` `Spring Boot` `Thymeleaf` `Spring Data JPA` `MySQL`
+<code>Java</code> <code>Spring Boot</code> <code>Thymeleaf</code> <code>Spring Data JPA</code> <code>MySQL</code>
 ---
 
 ### 🛸 Rick & Morty Web App
@@ -54,7 +54,7 @@ Real estate management system developed collaboratively as part of a university 
 
 Web application based on the Rick and Morty universe, developed collaboratively as part of a university project.
 
-`PHP` `MySQL` `HTML` `CSS`
+<code>PHP</code> <code>MySQL</code> <code>HTML</code> <code>CSS</code>
 
 ---
 
@@ -63,7 +63,7 @@ Web application based on the Rick and Morty universe, developed collaboratively 
 
 A lightweight Now Playing widget designed to display currently playing media with a clean and customizable interface.
 
-`JavaScript` `HTML` `CSS`
+<code>JavaScript</code> <code>HTML</code> <code>CSS</code>
 
 ---
 
@@ -72,4 +72,4 @@ A lightweight Now Playing widget designed to display currently playing media wit
 
 Personal finance management application designed to manage accounts, transactions, categories and installment payments.
 
-`Java` `Spring Boot` `React` `PostgreSQL`
+<code>Java</code> <code>Spring Boot</code> <code>React</code> <code>PostgreSQL</code>
