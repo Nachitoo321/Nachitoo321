@@ -1,8 +1,18 @@
-<h1 align="center">Hi 👋, I'm Ignacio</h1>
-<h3 align="center">Information Technology Student & Software Developer 🇦🇷</h3>
+<h1 align="center">Hey, I'm Ignacio 👋</h1>
+
+<h3 align="center">
+  Information Technology Student · Software Developer
+</h3>
 
 <p align="center">
-  Passionate about software development, technology and building projects that solve real problems.
+  Building software, learning how systems work and turning ideas into real projects.
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-Backend-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
 </p>
 
 ---
@@ -81,14 +91,13 @@ Personal finance management application designed to manage accounts, transaction
 
 ---
 
-## 📊 GitHub Stats
+## 🚀 Currently
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Nachitoo321&show_icons=true&theme=github_dark&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nachitoo321&layout=compact&theme=github_dark&hide_border=true" />
-</p>
-
----
+- 💰 Building **Nexoza**, a personal finance management application
+- 🎓 Studying **Information Technology** at UTN
+- 🌱 Deepening my knowledge of **Java, Spring Boot and React**
+- 🔐 Exploring **Cybersecurity and Networking**
+- 🛠️ Building projects to turn what I learn into real-world experience
 
 ## 🤝 Connect with Me
 
