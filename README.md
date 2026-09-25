@@ -37,18 +37,40 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-🏠 Real Estate Management System
-University Team Project
-Java • Spring Boot • MySQL
+---
 
-🛸 Rick & Morty Web App
-University Team Project
-PHP • MySQL • HTML • CSS
+## 🚀 Featured Projects
 
-🎵 Vanguard Now Playing
-Personal Project
-JavaScript • HTML • CSS
+### 🏠 Real Estate Management System
+**University Team Project**
 
-💰 Nexoza
-Personal Project
-Java • Spring Boot • React • PostgreSQL
+A real estate management system developed as a collaborative university project, focused on managing properties and related business operations.
+
+`Java` `Spring Boot` `MySQL`
+
+---
+
+### 🛸 Rick & Morty Web App
+**University Team Project**
+
+Web application based on the Rick and Morty universe, developed collaboratively as part of a university project.
+
+`PHP` `MySQL` `HTML` `CSS`
+
+---
+
+### 🎵 Vanguard Now Playing
+**Personal Project**
+
+A lightweight Now Playing widget designed to display currently playing media with a clean and customizable interface.
+
+`JavaScript` `HTML` `CSS`
+
+---
+
+### 💰 Nexoza
+**Personal Project · Work in Progress 🚧**
+
+Personal finance management application designed to manage accounts, transactions, categories and installment payments.
+
+`Java` `Spring Boot` `React` `PostgreSQL`
