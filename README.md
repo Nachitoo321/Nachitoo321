@@ -42,34 +42,39 @@
 ## 🚀 Featured Projects
 
 ### 🏠 [HogarYA — Real Estate Management System](https://github.com/Nachitoo321/HogarYA)
+
 **University Team Project**
 
 Real estate management system developed collaboratively as part of a university project.
 
-<code>Java</code> <code>Spring Boot</code> <code>Thymeleaf</code> <code>Spring Data JPA</code> <code>MySQL</code>
+`Java` `Spring Boot` `Thymeleaf` `Spring Data JPA` `MySQL`
+
 ---
 
 ### 🛸 Rick & Morty Web App
+
 **University Team Project**
 
 Web application based on the Rick and Morty universe, developed collaboratively as part of a university project.
 
-<code>PHP</code> <code>MySQL</code> <code>HTML</code> <code>CSS</code>
+`PHP` `MySQL` `HTML` `CSS`
 
 ---
 
 ### 🎵 Vanguard Now Playing
+
 **Personal Project**
 
 A lightweight Now Playing widget designed to display currently playing media with a clean and customizable interface.
 
-<code>JavaScript</code> <code>HTML</code> <code>CSS</code>
+`JavaScript` `HTML` `CSS`
 
 ---
 
 ### 💰 Nexoza
+
 **Personal Project · Work in Progress 🚧**
 
 Personal finance management application designed to manage accounts, transactions, categories and installment payments.
 
-<code>Java</code> <code>Spring Boot</code> <code>React</code> <code>PostgreSQL</code>
+`Java` `Spring Boot` `React` `PostgreSQL`
