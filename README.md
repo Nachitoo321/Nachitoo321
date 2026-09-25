@@ -1,29 +1,24 @@
-<h1 align="center">Hey, I'm Ignacio 👋</h1>
+<h1 align="center">Hey 👋, I'm Ignacio</h1>
 
 <h3 align="center">
-  Information Technology Student · Software Developer
+  Software Developer · Information Technology Student
 </h3>
 
 <p align="center">
-  Building software, learning how systems work and turning ideas into real projects.
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-Backend-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+  Building software, exploring systems and turning ideas into real projects.
 </p>
 
 ---
 
 ### 👨‍💻 About Me
 
-- 🎓 Information Technology student from Argentina
-- 💻 Interested in Software Development, Systems and Cybersecurity
-- 🌱 Currently learning and improving my skills in Java, Spring Boot and React
-- 🤝 Experience building collaborative university software projects
-- 🚀 Building personal projects and exploring new technologies
+I'm an Information Technology student at UTN, focused on building a strong foundation across software development and computer systems.
+
+- 💻 I enjoy building full-stack applications and understanding how things work beyond the code
+- ☕ Java and Spring Boot are currently at the core of my backend projects
+- 🌐 Interested in software engineering, networking and cybersecurity
+- 🤝 Experienced in collaborative university projects using Git and GitHub
+- 🚀 Always looking for opportunities to turn what I learn into working software
 
 ### 🛠️ Tech Stack
 
