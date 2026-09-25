@@ -1,7 +1,6 @@
 <p align="center">
   <img src="./banner.png" width="100%" alt="Ignacio Oroño - Software Developer">
 </p>
----
 
 ### 👨‍💻 About Me
 
