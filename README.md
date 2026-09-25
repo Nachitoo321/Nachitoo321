@@ -39,6 +39,7 @@ I'm an Information Technology student at UTN, focused on building a strong found
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white)
 ![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
+> **AI-assisted workflow:** I use AI to explore solutions, debug issues, review code, research technical concepts and compare implementation approaches, while validating and understanding the final solution myself.
 
 ---
 
