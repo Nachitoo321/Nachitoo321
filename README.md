@@ -61,14 +61,13 @@ Web application based on the Rick and Morty universe, developed collaboratively 
 
 ---
 
-### 🎵 Vanguard Now Playing
+### 🎵 [Brisa & Ritmo — Vanguard LCD Widget](https://github.com/Nachitoo321/Vanguard-Now-Playing)
 
 **Personal Project**
 
-A lightweight Now Playing widget designed to display currently playing media with a clean and customizable interface.
+Custom LCD widget for the Corsair Vanguard Pro 96 that displays weather, time and currently playing media through Corsair iCUE.
 
-`JavaScript` `HTML` `CSS`
-
+`JavaScript` `HTML` `CSS` `Open-Meteo API` `iCUE`
 ---
 
 ### 💰 Nexoza
