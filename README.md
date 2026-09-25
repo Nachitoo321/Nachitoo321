@@ -68,6 +68,7 @@ Web application based on the Rick and Morty universe, developed collaboratively 
 Custom LCD widget for the Corsair Vanguard Pro 96 that displays weather, time and currently playing media through Corsair iCUE.
 
 `JavaScript` `HTML` `CSS` `Open-Meteo API` `iCUE`
+
 ---
 
 ### 💰 Nexoza
