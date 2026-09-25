@@ -1,13 +1,6 @@
-<h1 align="center">Hey 👋, I'm Ignacio</h1>
-
-<h3 align="center">
-  Software Developer · Information Technology Student
-</h3>
-
 <p align="center">
-  Building software, exploring systems and turning ideas into real projects.
+  <img src="./banner.png" width="100%" alt="Ignacio Oroño - Software Developer">
 </p>
-
 ---
 
 ### 👨‍💻 About Me
